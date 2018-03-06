@@ -1,0 +1,377 @@
+<!--dynamic page--><base href='https://www.nakedkitchens.com/content/themes/naked-kitchens/'>
+<!doctype html>
+<html>
+	<head>
+		<!--detect IE script-->
+<script type="text/javascript">var ie=function(){for(var a,b=3,c=document.createElement("div"),d=c.getElementsByTagName("i");c.innerHTML="<!--[if gt IE "+ ++b+"]><i></i><![endif]-->",d[0];);return b>4?b:a}();</script>
+
+<title>Naked Kitchens | Terms and Conditions</title>
+
+<meta name="description" http-equiv="description" id="meta-desc" content="Naked Kitchens terms and conditions">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="google-site-verification" content="QjWCBDSmtkY5BoYGJTouEyzPPZ3f5f181EMZjnugj_0" />
+<meta name="viewport" content="width=device-width, height=device-height initial-scale=1 maximum-scale=1  minimum-scale=1 user-scalable=no">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="theme-color" content="#000000" id="themeColor">
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Naked Kitchens" />
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="white">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="format-detection" content="telephone=yes">
+
+
+<meta property="og:url" content="https://www.nakedkitchens.com/terms-and-conditions" />
+<meta property="og:title" content="Naked Kitchens | Terms and Conditions" />
+<meta property="og:description" content="Naked Kitchens terms and conditions" />
+
+<link rel="shortcut icon" type="image/png" href="images/icon.png">
+<link rel="apple-touch-icon-precomposed" href="images/icon.png">
+    
+<!-- twitter card info -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@NAKEDKitchens" />
+<meta name="twitter:creator" content="@NAKEDKitchens" />	</head>
+	<body>
+	<!--header-->
+
+	<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '668973203278851', {
+em: 'insert_email_variable,'
+});
+fbq('track', 'PageView');
+
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=668973203278851&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KX4SCD');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KX4SCD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="loadingScreenId" style="display:none;"></div>
+    
+<script type="text/javascript">
+
+document.getElementById('loadingScreenId').style.display = 'block';
+
+</script>
+    
+<link type="text/css" rel="stylesheet" href="css/header.css">
+
+<link rel="icon" type="image/png" href="images/icon.png">
+<link rel="apple-touch-icon" href="images/icon.png">
+<link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
+    
+<div id="bodyInnerId" style="visibility: hidden;">
+    
+<div id="headerBackgroundId"></div>
+    
+<div id="headerId">
+    <div id="headerInnerBackgroundId"></div>
+    
+    <a href="/">
+        <div id="logoId"></div>
+    </a>
+    
+    <div id="headContactContainerId">
+        <a id="phoneNumberId" class="number" itemprop="telephone" href="tel:01328-838-854">01328 838 854</a>    
+        <div id="emailId" itemprop="email" onclick="emailLinkClick();">info@nakedkitchens.com</div>
+        <a id="mobileEmailId" itemprop="email" href="mailto:info@nakedkitchens.com?subject=Naked Kitchen Enquiry">info@nakedkitchens.com</a>
+    </div>
+    
+    
+    <div id="menuButtonId">
+        <div type="button" role="button" aria-label="Toggle Navigation" class="lines-button x">
+            <span class="lines"></span>
+        </div>
+    </div>
+
+    <script src="js/header.js"></script>
+
+    <div id="menuContainerId">
+        <nav id="pageLinkContainerId">
+            <ul>
+                <li>
+                    <a class="dropDownLinkClass" href="/kitchens">Kitchens</a>
+                    <div class="dropDownClass">
+                        <a href="/kitchens/contemporary">Contemporary</a>
+                        <a href="/kitchens/shaker">Shaker</a>
+                        <a href="/kitchens/classic">Classic</a>
+                        <a href="/kitchens/larders">Larders</a>
+                        <a href="/miele">Miele</a>
+                        <a href="/pricing">Pricing</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="dropDownLinkClass" href="/interiors">Interiors</a>
+                    <div class="dropDownClass">
+                        <a href="/kitchens/naked-in-frame/boot-room">Boot Room</a>
+                        <a href="/interiors/dressing-room">Dressing Room</a>
+                        <a href="/kitchens/accessories">Accessories</a>
+                        <a href="/kitchens/furniture">Furniture</a>
+                        <a href="/kitchens/hardwood-flooring">Flooring</a>
+                        <a href="/kitchens/worktops">Worktops</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="dropDownLinkClass" href="/our-approach">Our Approach</a>
+                    <div class="dropDownClass">
+                        <a href="/kitchens/cabinet-construction">Construction</a>
+                        <a href="/kitchens/cabinet-styling">Styling</a>
+                        <a href="/kitchens/door-frame-styling">Doors & Frames</a>
+                        <a href="/assembly-options">Assembly Options</a>
+                    </div>
+                </li>
+                <li id="showroomLinkId">
+                    <a href="/showroom">Showroom</a>
+                </li>
+                <li>
+                    <a href="/blog">Blog</a>
+                </li>
+                <li>
+                    <a class="dropDownLinkClass" href="/contact-us">Contact</a>
+                    <div class="dropDownClass">
+                        <!--<a class="legacy" href="downloads/naked-kitchens-brochure.pdf">Brochure</a>-->
+                        <a class="legacy" href="/brochure">Brochure</a>
+                        <a class="legacy" href="/kitchens/cabinet-samples">Samples</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+
+<div id="mainBodyContainerId">
+	<!--body content-->
+	<style>
+.termsclass{line-height:24px;}
+</style>
+<div class="textBoxLeftClass">
+ <h1>Terms and Conditions</h1>
+    <p><b>We ask you to read these terms and conditions fully before placing your order. You agree that you have fully read, understood and agree to our terms and conditions. All orders placed with and accepted by Norfolk Oak Limited are bound by these terms and conditions. Norfolk Oak, Naked Kitchens, Naked Doors, Barncrest, Mountain Hardwoods  Wooden-Kitchen-Worktops and 80/20 Kitchens are trading names of Norfolk Oak Limited.</b></p>
+  	<p>All prices on our website include VAT at the current rate unless otherwise stated.</p>
+</div>
+
+<div class="textBoxLeftClass termsclass">
+    <h2>Definitions</h2>
+    <p>In these Conditions:</p>
+        <ol>
+            <li>The "Company" means Norfolk Oak Limited.</li>
+            <li>The "Customer" means the Customer of the Company.</li>
+            <li>The "Contract" means any contract for sale of goods or services by the Company to the Customer.</li>
+            <li>The "Goods" means any goods forming the subject of this contract including materials incorporated in them.</li>
+            <li>'We' means Norfolk Oak Limited.</li>
+            <li>"Us" means Norfolk Oak Limited.</li>
+            <li>"You" means you the Customer.</li>
+            <li>Norfolk Oak, Naked Kitchens, Naked Doors, Barncrest, Mountain Hardwoods, Wooden-Kitchen-Worktops and 80/20 Kitchens are trading names of Norfolk Oak Limited.</li>
+        </ol>
+    
+    <h2>Delivery Help and Related Issues</h2>
+    <p>Please note that:</p>
+        <ol>
+            <li>Someone will be required to sign for and carefully check the goods;</li>
+            <li>If no one is available to help unload and / or sign for the goods, re-delivery will result in a re-delivery charge equal to the original cost of delivery, unless the inability to deliver prejudices further deliveries, in which case The Company reserve the right to charge the Customer for the cost of other re-deliveries which we were unable to make due to the inability to deliver.</li>
+            <li>The Company deliveries are made by one man only. Help must be provided by the Customer for unloading, and the delivery service is to the kerb side only.</li>
+            <li>Where The Company informs the Customer that the worktops are particularly heavy and require multiple helpers, it is the Customer's responsibility to provide the correct number of suitable helpers to help carry the worktop.</li>
+            <li>In order to provide good customer service, drivers are permitted to help carry worktops in to a Customer's house, but this is on the strict understanding that neither The Company nor the delivery driver have any liability whatsoever in attempting to help the Customer. This help is given at the discretion of the driver, and forms no part of the contracted delivery service.</li>
+            <li>Transfer of liability for the worktop passes to the Customer once the worktop is safely out of the delivery vehicle. The Company will not accept any liability for damage to the worktop, the Customer's property, or any personal injury to the Customer or any third party once removed from the vehicle.</li>
+            <li>The Customer agrees there will be someone competent available to help with the unloading of the worktops or other goods and warrants that any helpers are suitable for the unloading process and The Company will accordingly not accept any liability for any injury arising from any delivery. Worktops can be extremely heavy; it is the Customer's responsibility to ensure the designated helper is strong enough / fit enough to help with the delivery.</li>
+            <li>It is the Customer’s responsibility to ensure the unloading area and drop off point are suitable. The Company cannot be held liable for any injury to persons unloading the delivery no matter how caused.</li>
+            <li>All goods must be inspected for damage or shortfall on delivery in the presence of the delivery driver. Any loss or damage must be clearly written on the delivery note. No claims for damage can be made after this. Goods will not be left without a valid signature from the Customer or a responsible person elected by the Customer who must be 18 or over.</li>
+            <li>Where goods are delivered by courier, it is essential the goods are unwrapped and checked for damage. If the goods are signed for in good condition then The Company cannot be held liable for any damage.</li>
+        </ol>
+    
+    <h2>Delivery Dates</h2>
+        <ol>
+            <li>The Company always makes every effort to deliver goods within the delivery option requested at the time the order was placed. However we cannot guarantee this, and we will not accept any liability if your order is delivered outside any previously agreed time or date.</li>
+            <li>We recommend that you only arrange for tradesmen to carry out work on your behalf after your goods have actually been delivered. We will not be responsible for any losses incurred for late delivery no matter howsoever caused.</li>
+            <li>If there is any damage during delivery, we will endeavour to replace or repair the items as quickly as possible, however we are not liable for any further costs you may have to incur.</li>
+            <li>Goods are not wrapped; we use thick blankets instead during transit.</li>
+        </ol>
+    
+    <h2>Consumer Rights and Distance Selling Regulations</h2>
+        <ol>
+            <li>Under the distance selling regulations, a private Customer has the right to return standard size goods within seven days of the goods being received without giving a reason. As the manufacturer, The Company do not stock any standard sizes in any timber products. Therefore, regardless of size and dimensions, all kitchens, units, worktops, upstands, timber and machined products are bespoke made, and cut specifically to your order. These orders are therefore not subject to the right of return under the distance selling regulations.</li>
+            <li>For any other items which are stocked and are a standard size, a private Customer is fully covered by the distance selling regulations. Please ask for full details if you would like more information.</li>
+            <li>Goods returned must be in a saleable, as new condition and returned in their original packaging. The Customer must arrange transportation and pay all costs involved in transporting the goods back to the warehouse from which they came. The goods must be insured whilst in transit for the full value of their cost price, goods received damaged after return will not receive a refund from the Company and the Customer shall pursue their carrier for reimbursement and or return.</li>
+            <li>Returns made under this provision must be agreed in writing or by email by both parties before the goods are returned. Once a returns note has been issued, the goods must be returned within seven days. These rights do not apply to business purchases.</li>
+        </ol>
+  
+    <h2>Retention of Title</h2>
+        <ol>
+            <li>Title to the goods shall remain vested in The Company and shall not pass to the customer until the price for the goods has been paid in full and The Company’s obligations have been fully carried out.</li>
+            <li>Until title to the goods passes The Company have the authority to retake, or otherwise deal with and/or dispose of all or any part of the goods, including entering onto private land and physically retaking and removing, even if fitted the goods doing as little damage as possible but not to be liable for any damage so caused.</li>
+        </ol>
+    
+    <h2>Manufacture</h2>
+        <ol>
+            <li>Goods are prepared for the Customer according to our workshop schedule. If the Customer delays delivery or collection after the worktops have been made, storage of the goods is entirely at the Customers' risk. The Company will not be liable for any damage no matter how caused. The Company will endeavour to store the items carefully, however the Customer agrees that timber, as a natural product, is subject to movement and may move during the period of storage. The Customer expressly agrees that The Company is not liable for any such movement, as we do not have the correct environmental storage to prevent such movement.</li>
+            <li>The Company reserves the right to revise prices and details at any time without notice.</li>
+            <li>If we list a product at the wrong price due to a typographical or other error, we have the right to refuse or cancel any orders placed prior to the order being delivered.</li>
+            <li>We will not adjust any prices without informing clients first, and will allow you to withdraw your order at no cost to yourself and; if applicable, a full refund will be given.</li>
+            <li>Goods are subject to availability. If any items of your order are out of stock or the material to make them are not available, we will advise you immediately of the expected delay in delivery. We reserve the right to substitute out of stock items with a more expensive product at our discretion but at no additional cost to the customer.</li>
+            <li>All works undertaken by The Company have a + / - 2 millimetre margin for error per cut. All timber reacts differently when cut. When undertaking work on a Customer's worktop, the Customer accepts that unforeseen variations in the timber may result in minor breakouts or machine marks. In order to minimize any possible effects of this, The Company may, at its discretion, chose to modify or amend any cutouts or sizes as it sees fit to best deal with the situation. Further, where necessary, The Company may use filler in order to repair such damage. The Customer accepts that it is these variations in density and hardness of timber are a natural part of the product, and not the fault of The Company. Naturally, The Company warrant that it takes all reasonable steps to avoid damage of this, or any other nature. In certain circumstances, flaws and faults within the timber may be exposed during the manufacturing process. The Customer accepts this is a natural feature of the timber, and not the fault of The Company. The Company will do their best to remedy the situation, but cannot be liable for any defects exposed in this way.</li>
+            <li>The statutory right of cancellation does not apply to orders which are made to measure or in any way cut or altered to your requirements.</li>
+            <li>If custom or bespoke orders are faulty, The Company reserve the right to take corrective action, which may involve the return of the faulty item to our workshops for repair. We may, at our discretion, replace the item. You agree to let The Company perform corrective work at your premises if we deem that suitable. If we decide the worktops need to be returned to the workshop for corrective action, the Customer will organise and be responsible for the removal. Any cost of removal and or re-installation will be borne by the Customer, no matter what the reason, even if the worktop is faulty.</li>
+        </ol>
+    
+    <h2>Damage</h2>
+        <ol>
+            <li>No claims for damage / discrepancies can be made by the Customer after installation, as installation of our materials constitutes acceptance of the product in its current state.</li>
+            <li>Similarly, we will not accept any claims for damages / discrepancies once the Customer has performed any work on the worktops, including cutting, shaping, finishing or oiling.</li>
+            <li>Any work carried out on the worktops constitutes immediate acceptance of the worktops.</li>
+            <li>As custom-made orders (e.g. worktops cut to size, sink hole cutouts etc.) are not cancellable, you must make sure that the information and materials (e.g. plans, designs, lists and sizes of products required) provided by you and those provided by us (e.g. items listed in our quotation) are correct and suitable for your use before you place an order with us.</li>
+            <li>Types of construction, stave widths, lengths and thickness may vary from the sample or from piece to piece. There may be occasions where the worktops are heavily sanded by The Company in order to present the best aspect of the timber. This means in some circumstances worktops may be less than the advertised thickness. If this is the case, The Company will sand all the worktops for that Customer to same thickness to provide a consistent product.</li>
+            <li>Instances in which any damage or loss has occurred the customer is under a duty to mitigate their loss as far as reasonably possible. The customer must cite exactly what the problem is and give The Company the unfettered right to review and rectify the matter. The customer also accepts that any liability for damage does not extend beyond the repair/ replacement of the particular damaged product and anything immediately adjacent to it insofar as it is reasonable.</li>
+        </ol>
+    
+    <h2>Quotes, Sizes and Order Confirmation</h2>
+        <ol>
+            <li>Whilst we do our best to interpret figures, diagrams, drawings or conversations which detail the sizes, shapes and details of your quote, we are unable to guarantee that this is a correct interpretation of your exact requirements, and cannot be held liable if these subsequently prove to be incorrect.</li>
+            <li>It is up to you the Customer to ensure that the sizes, shapes and dimensions detailed in our quote are correct for what you require. Before manufacture, we will produce an order confirmation which is the basis on which we manufacture. It is also up to you the Customer to ensure that sizes, shapes and all the details of your order as detailed in your order confirmation email are correct for what you require.</li>
+            <li>Apart from some preparation work and cutting timber to rough over size, we will not machine your order until we have received confirmation that the order details are correct.</li>
+            <li>All measurements are in millimetres. Where these have been converted from other forms of measurement, for example imperial measurements or measurements expressed in metres and centimetres, it is up to you the Customer to ensure that these are correct, even if provided by us. We do not check or warrant these details for accuracy or validity.</li>
+            <li>Illustrations, descriptions, weights and measurements shall be taken by the buyer as a guide only, and are not binding in detail. The Company reserves the right without notice and without affecting the validity of the contract to make such changes in materials, dimensions and design as are reasonable and desirable.</li>
+            <li>Colour accuracy of the products viewed on our website cannot be guaranteed due to vagaries of the image reproduction process. Any images and samples should be treated as approximations only.</li>
+        </ol>
+    
+    <h2>Timber as a Natural Product</h2>
+        <ol>
+            <li>Wood is a natural product and has all manner of colour variations, and whilst we go to great lengths to colour match as much as possible, we cannot guarantee any replication of colour from piece to piece. We also go to great lengths to remove nearly all flaws in the surface of our worktops.</li>
+            <li>However wood is a natural product, and removal of every single flaw would render the timber characterless. Accordingly, the Customer accepts there may be some flaws, such as small knots, small shakes (slight cracks which are a natural element of the timber), and other minor flaws which The Company consider will not impair the performance of the worktop, in the top surface of the worktop. In order to make the best use of the timber, there may be larger flaws on the underside of the worktop, including manufacturing defects. These do not constitute a faulty product.</li>
+            <li>Whilst The Company go to great lengths to ensure the timber has been correctly dried, movement in solid timber cannot be prevented. After fitting, small cracks may appear a few millimetres in width. This is entirely normal and is regarded as part of the natural beauty of the timber.</li>
+            <li>These cracks can be easily filled with a special coloured wax filler. These cracks and movements do not constitute any fault with the timber or worktop construction; for the sake of clarity, timber is a natural product and will move / change over time and the Customer expressly understands and accepts this.</li>
+        </ol>
+    
+    <h2>End Grain Blocks and Worktops</h2>
+        <ol>
+            <li>End grain, by its very nature, is much more susceptible to movement based on atmospheric conditions. This is entirely normal and to be expected. Small cracks may appear, sometimes along glue line, which does not imply a manufacturing fault, it is just the way the material moves.</li>
+            <li>Where there are cut outs leaving narrow sections of worktop, these may crack all the way through. Whilst The Company go to great lengths to avoid this, the Customer accepts that the very nature of the raw material sometimes makes this unavoidable.</li>
+            <li>The Company cannot be held liable for any mishandling, lack of initial oiling, inappropriate storage, improper maintenance or incorrect fixing. The Company recommends only Liberon Finishing Oil. The Customer agrees to take the correct installation and maintenance oiling as detailed by us in our oiling instructions. Failure to follow this will most likely lead to damage, and The Company cannot be liable for any damage in these circumstances.</li>
+        </ol>
+    
+    <h2>Copyright</h2>
+        <ol>
+            <li>All design, text and imagery on all of our websites including and not limited to <a href="http://www.norfolkoak.com">www.norfolkoak.com</a> <a href="http://www.nakedkitchens.com">www.nakedkitchens.com</a> <a href="http://www.nakeddoors.com">www.nakeddoors.com</a> is the copyright of The Company and our sites may be altered in any way or republished without express prior consent from The Company. The Company are the copyright holders for all their images and text. No images may be sold or assigned to or by any third party.</li>
+        </ol>
+    
+    <h2>Variation</h2>
+        <ol>
+            <b>The Company reserves the right to: </b>
+            <li>(a) Alter these Terms and Conditions upon giving you advance notice.</li>
+            <li>(b) Decline service to any individual Customer. The above Terms and Conditions shall not affect your statutory rights as a consumer. The contract between us shall in all respects be governed by and construed and interpreted in accordance with the laws of England and the parties hereby submit to the exclusive jurisdiction of the English courts.</li>
+        </ol>
+    
+    <br/>
+    
+    <h3>Naked Kitchens is part of Norfolk Oak.</h3>
+
+    
+</div>
+	<!--footer-->
+	</div>      <!--body inner-->
+</div>      <!--main body-->
+
+<div id="footer">
+    <div class="footerColumnClass">
+        <div id="footerLinkBarId">
+            <div class="footerTitleClass">Information</div>
+            <a href="/">Home</a>
+            <a href="/faq">FAQ</a>
+            <a href="/press">Press</a>
+            <a href="/careers">Careers</a>
+            <a href="/glossary-of-terms">Glossary of Terms</a>
+            <a href="/terms-and-conditions">Terms & Conditions</a>
+        </div>
+        <br>
+        <div id="footerSocialContainer">
+            <div class="footerTitleClass">Social Media</div>
+            <a href="https://www.facebook.com/NAKEDKitchens" class="facebook"></a>
+            <a href="https://www.instagram.com/nakedkitchens/" class="instagram"></a>
+            <a href="https://twitter.com/nakedkitchens/" class="twitter"></a>
+            <!--<a href="https://plus.google.com/+Nakedkitchens" class="google"></a>-->
+            <a href="https://uk.pinterest.com/nakedkitchens/" class="pinterest"></a>
+            <a href="http://www.houzz.co.uk/pro/nakedkitchens/" class="houzz"></a>
+        </div>
+	</div>
+    <div class="footerColumnClass">
+        <div id="footerContactContainerId">
+            <div class="footerTitleClass">Contact</div>
+            <p>
+                <a class="number" itemprop="telephone" href="tel:01328-838-854">01328 838 854</a>
+                <br>
+                <a itemprop="email" href="mailto:info@nakedkitchens.com">info@nakedkitchens.com</a>
+            </p>
+            <p>
+                Hangar 4
+                <br>
+                West Raynham Business Park
+                <br>
+                Fakenham
+                <br>
+                Norfolk
+                <br>
+                NR21 7JS
+            </p>
+        </div>
+    </div>
+    <div class="footerColumnClass">
+        <div id="footerReviewContainerId">
+            <img src="images/parliamentry-review.png" style="width:320px;margin-top:40px;" alt="Parliamentry Review">
+        </div>
+    </div>
+	<div id="footerCopyrightId">All Prices Include VAT. Copyright &copy; 2018 Naked Kitchens. All rights Reserved.</div>
+</div>
+
+<div id="modalContactCoverId" onclick="contactCoverClick()"></div>
+<div id="modalContactBoxId">
+    <div id="modalContactBoxCloseId" onclick="contactCoverClick()"></div>
+    <div class="inlineContactClass">
+    <div class="contactFormClass">
+        <div class="textBoxClass">
+            <h2>Contact</h2>
+            <h3>Please get in touch to start planning your dream kitchen.</h3>
+        </div>
+        <div class="contactIputContainerClass">
+            <input placeholder="name *" name="name" type="text" class="required contactNameInputClass">
+            <input placeholder="email *" name="email" type="text" class="required contactEmailInputClass">
+            <input placeholder="phone" type="text" class="contactPhoneInputClass">
+            <textarea placeholder="message *" name="message" class="required contactMessageInputClass"></textarea>
+            <div class="contactSubmitButtonClass">Send Message</div>
+            <div class="contactStatusMessageClass"></div>
+        </div>
+        <div id="brochureDownloadButtonContainerId">
+            <a href="downloads/naked-kitchens-brochure.pdf" class="legacy">Download Our Brochure ></a>
+        </div>
+    </div>
+</div>
+</div>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhza4tmL4FDP8zwN-Xe3McLWJNLdGHFsk&callback=initMap" async defer></script>
+<script src="js/output.min.js" async defer></script>
+
+<link type="text/css" rel="stylesheet" href="css/compress.css">
+
+</body>
+
+</html>	</body>
+</html>

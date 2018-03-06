@@ -1,0 +1,148 @@
+
+body
+{
+    background-color:#424242;
+}
+
+/*loading screen animation*/
+#loadingScreenId
+{
+    position: fixed;
+    z-index:110;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    background-color:#424242;
+}
+
+#loadingCanvasId
+{
+    width: 297px;
+    height: 130px;
+    left: 50%;
+    top: 50%;
+    margin: -65px 0 0 -149px;
+    position: fixed;
+    animation: loadIn .5s ease-out forwards;
+    -webkit-animation: loadIn .5s ease-out forwards;
+}
+
+@media (max-width: 500px)
+{
+    #loadingCanvasId
+    {
+        width:215px;
+        height:94px;
+        margin:-47px 0 0 -109px;
+    }
+}
+
+@keyframes loadIn
+{
+    0%
+    {
+        top:60%;
+    }
+    
+    100%
+    {
+        top:50%;
+    }
+}
+
+@-webkit-keyframes loadIn
+{
+    0%
+    {
+        top:60%;
+    }
+    
+    100%
+    {
+        top:50%;
+    }
+}
+    
+#logoId
+{
+    background-image:url('/content/themes/naked-kitchens/images/logo-white.svg');
+}
+
+@media (max-width: 800px)
+{
+    #phoneNumberId
+    {
+        background-image:url('/content/themes/naked-kitchens/images/phone.svg');
+        background-repeat: no-repeat;
+        width: 40px;
+        height: 40px;
+        right: 100px;
+        top: 30px;
+
+        /* Hides the text. */
+        text-indent: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+
+    #emailId
+    {
+        background-image:url('/content/themes/naked-kitchens/images/mail.svg');
+        background-repeat: no-repeat;
+        width: 46px;
+        height: 40px;
+        top: 34px;
+        right: 174px;
+
+        /* Hides the text. */
+        text-indent: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+}
+    
+.scrollArrowClass
+{
+    background-image:url('/content/themes/naked-kitchens/images/arrow-down.svg');
+}
+    
+.kitchenLeftButtonClass
+,
+.kitchenRightButtonClass
+{
+    background-image: url('/content/themes/naked-kitchens/images/arrow-right.svg');
+}
+    
+.pricingTableClass a span:first-child
+{
+    background-image: url('/content/themes/naked-kitchens/images/arrow-right.svg');
+}
+    
+#quoteLeftArrowId
+,
+#quoteRightArrowId
+{
+    background-image: url('/content/themes/naked-kitchens/images/arrow-right.svg');
+}
+
+#wpadminbar {
+    direction: ltr;
+    color: #ccc;
+    font: 400 13px/32px "Open Sans",sans-serif;
+    height: 32px;
+    position: fixed;
+    top: -40px;
+    left: 0;
+    width: 100%;
+    min-width: 600px;
+    z-index: 99999;
+    background: #23282d;
+    position: fixed;
+}
+h2 {
+    font-weight: 400;
+    font-size: 1.4em;
+    font-size: 28px;
+    margin-right: 40px;
+}

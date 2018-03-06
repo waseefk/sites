@@ -1,0 +1,433 @@
+<!--dynamic page--><base href='https://www.nakedkitchens.com/content/themes/naked-kitchens/'>
+<!doctype html>
+<html>
+	<head>
+		<!--detect IE script-->
+<script type="text/javascript">var ie=function(){for(var a,b=3,c=document.createElement("div"),d=c.getElementsByTagName("i");c.innerHTML="<!--[if gt IE "+ ++b+"]><i></i><![endif]-->",d[0];);return b>4?b:a}();</script>
+
+<title>Glossary of Terms | Naked Kitchens</title>
+
+<meta name="description" http-equiv="description" id="meta-desc" content="Glossary of terms for naked kitchens, kitchen & cabinet terminology">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="google-site-verification" content="QjWCBDSmtkY5BoYGJTouEyzPPZ3f5f181EMZjnugj_0" />
+<meta name="viewport" content="width=device-width, height=device-height initial-scale=1 maximum-scale=1  minimum-scale=1 user-scalable=no">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="theme-color" content="#000000" id="themeColor">
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Naked Kitchens" />
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="white">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="format-detection" content="telephone=yes">
+
+
+<meta property="og:url" content="https://www.nakedkitchens.com/glossary-of-terms" />
+<meta property="og:title" content="Glossary of Terms | Naked Kitchens" />
+<meta property="og:description" content="Glossary of terms for naked kitchens, kitchen & cabinet terminology" />
+
+<link rel="shortcut icon" type="image/png" href="images/icon.png">
+<link rel="apple-touch-icon-precomposed" href="images/icon.png">
+    
+<!-- twitter card info -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@NAKEDKitchens" />
+<meta name="twitter:creator" content="@NAKEDKitchens" />	</head>
+	<body>
+	<!--header-->
+
+	<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '668973203278851', {
+em: 'insert_email_variable,'
+});
+fbq('track', 'PageView');
+
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=668973203278851&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KX4SCD');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KX4SCD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="loadingScreenId" style="display:none;"></div>
+    
+<script type="text/javascript">
+
+document.getElementById('loadingScreenId').style.display = 'block';
+
+</script>
+    
+<link type="text/css" rel="stylesheet" href="css/header.css">
+
+<link rel="icon" type="image/png" href="images/icon.png">
+<link rel="apple-touch-icon" href="images/icon.png">
+<link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
+    
+<div id="bodyInnerId" style="visibility: hidden;">
+    
+<div id="headerBackgroundId"></div>
+    
+<div id="headerId">
+    <div id="headerInnerBackgroundId"></div>
+    
+    <a href="/">
+        <div id="logoId"></div>
+    </a>
+    
+    <div id="headContactContainerId">
+        <a id="phoneNumberId" class="number" itemprop="telephone" href="tel:01328-838-854">01328 838 854</a>    
+        <div id="emailId" itemprop="email" onclick="emailLinkClick();">info@nakedkitchens.com</div>
+        <a id="mobileEmailId" itemprop="email" href="mailto:info@nakedkitchens.com?subject=Naked Kitchen Enquiry">info@nakedkitchens.com</a>
+    </div>
+    
+    
+    <div id="menuButtonId">
+        <div type="button" role="button" aria-label="Toggle Navigation" class="lines-button x">
+            <span class="lines"></span>
+        </div>
+    </div>
+
+    <script src="js/header.js"></script>
+
+    <div id="menuContainerId">
+        <nav id="pageLinkContainerId">
+            <ul>
+                <li>
+                    <a class="dropDownLinkClass" href="/kitchens">Kitchens</a>
+                    <div class="dropDownClass">
+                        <a href="/kitchens/contemporary">Contemporary</a>
+                        <a href="/kitchens/shaker">Shaker</a>
+                        <a href="/kitchens/classic">Classic</a>
+                        <a href="/kitchens/larders">Larders</a>
+                        <a href="/miele">Miele</a>
+                        <a href="/pricing">Pricing</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="dropDownLinkClass" href="/interiors">Interiors</a>
+                    <div class="dropDownClass">
+                        <a href="/kitchens/naked-in-frame/boot-room">Boot Room</a>
+                        <a href="/interiors/dressing-room">Dressing Room</a>
+                        <a href="/kitchens/accessories">Accessories</a>
+                        <a href="/kitchens/furniture">Furniture</a>
+                        <a href="/kitchens/hardwood-flooring">Flooring</a>
+                        <a href="/kitchens/worktops">Worktops</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="dropDownLinkClass" href="/our-approach">Our Approach</a>
+                    <div class="dropDownClass">
+                        <a href="/kitchens/cabinet-construction">Construction</a>
+                        <a href="/kitchens/cabinet-styling">Styling</a>
+                        <a href="/kitchens/door-frame-styling">Doors & Frames</a>
+                        <a href="/assembly-options">Assembly Options</a>
+                    </div>
+                </li>
+                <li id="showroomLinkId">
+                    <a href="/showroom">Showroom</a>
+                </li>
+                <li>
+                    <a href="/blog">Blog</a>
+                </li>
+                <li>
+                    <a class="dropDownLinkClass" href="/contact-us">Contact</a>
+                    <div class="dropDownClass">
+                        <!--<a class="legacy" href="downloads/naked-kitchens-brochure.pdf">Brochure</a>-->
+                        <a class="legacy" href="/brochure">Brochure</a>
+                        <a class="legacy" href="/kitchens/cabinet-samples">Samples</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+
+<div id="mainBodyContainerId">
+	<!--body content-->
+	<div class="textBoxLeftClass">
+	<h1 style="margin-left:0;">
+		Glossary of Terms
+	</h1>
+
+	<h2>Automation</h2>
+	<p>
+		The use of systems controlled by computer. We use this to save energy and materials as well as consistently improve accuracy and quality.
+	</p>
+
+	<br>
+
+	<h2>Bespoke</h2>
+	<p>
+		Made to the customers individual requirements. Our cabinets are not limited or compromised by standard sizes or filler pieces.
+	</p>
+
+	<br>
+
+	<h2>CAD</h2>
+	<p>
+		Computer-Aided-Design (CAD) is the process of creating and optimising design with a computer. Our software is 3D, photo-realistic and contains a completely flexible design system. CAD assists in ensuring our cabinets are millimetre precise right from the start.
+	</p>
+
+	<br>
+
+	<h2>CAM</h2>
+	<p>
+		Computer-Aided-Manufacture (CAM) is directly linked with CAD, verifying and machining the design rendered on our 3D design software. CAM results in a more efficient production process, with more accurate components and tooling as well as aiding consistency.
+	</p>
+
+	<br>
+
+	<h2>CNC</h2>
+	<p>
+		(Computer Numerical Control) A computer controlled milling machine that cuts to millimetre tolerances.
+	</p>
+
+	<br>
+
+	<h2>Furniture Grade</h2>
+	<p>
+		Superior quality. All of our timber is furniture grade.
+	</p>
+
+	<br>
+
+	<h2>Hardwood</h2>
+	<p>
+		More complex than softwoods such as Pine, hardwoods are usually broad-leaved and slower growing, resulting in a beautiful fine grain. The majority of hardwoods are denser and stronger than softwoods. 
+	</p>
+
+	<br>
+
+	<h2>Super Stave Worktops</h2>
+	<p>
+		Long and wide single planks that stretch along your kitchen. 
+	</p>
+
+	<br>
+
+	<h2>Birch</h2>
+	<p>
+		Known for its hardness and being very dimensionally stable, Birch is a fine-grained and light coloured timber with a natural lustre.
+	</p>
+
+	<br>
+
+	<h2>Plywood</h2>
+	<p>
+		A manufactured wood panel. Our plywood is 18.7mm thick and made from bonded FSC Birch panels.
+	</p>
+
+	<br>
+
+	<h2>Sustainably-Sourced</h2>
+	<p>
+		NAKED Kitchens only uses FSC (Forest Stewardship Certification) timber. Not only does this ensure we run as environmentally friendly as possible, it also ensures our cabinets only feature the finest timbers in the world.
+	</p>
+
+	<br>
+
+	<h2>Appalachian Mountains</h2>
+	<p>
+		A large system of rolling hills and mountains in eastern North America. Renowned for the beautiful and sturdy timber it produces, and characterised by its hardwood tress that cover the entire range. 
+	</p>
+
+	<br>
+
+	<h2>Black Cherry  "Prunus Serotina"</h2>
+	<p>
+		 is a broadleaf tree that is very dense with a tight grain and a fine, smooth texture. A traditional solid hardwood that is perfect for the clean lines of <a href="/kitchens/contemporary" />contemporary kitchen</a>.
+	</p>
+
+	<br>
+
+	<h2>White Oak</h2>
+	<p>
+		 "Quercus Alba" is the most sought after Oak on the planet. Dense, with a distinctive sweeping grain, White Oak is timeless, blending perfectly into many different styles.
+	</p>
+	<p>
+		Quercus alba, the White Oak, is one of the pre-eminent hardwoods of eastern North America. American White Oak is the finest Oak on the planet. Harder, denser and with a more delicate, beautiful grain structure than any other Oak.
+	</p>
+
+	<br>
+
+	<h2>Face-Frame</h2>
+	<p>
+		A frame fixed to the front of the cabinet carcass that is a fixing point for doors. Our face-frames are either White Oak or Black Cherry.
+	</p>
+
+	<br>
+
+	<h2>Edge-banding</h2>
+	<p>
+		Slices of wood that are bonded to the edges of cabinets. Our edge band is cut from the same furniture grade hardwoods as our face-frames. 
+	</p>
+
+	<br>
+
+	<h2>Melamine</h2>
+	<p>
+		A smooth, hard-wearing film that is coated over plywood panels. Our melamine faced ply is available in an exciting selection of colours for the inside and outside of your cabinets.
+	</p>
+
+	<br>
+
+	<h2>Lacquer</h2>
+	<p>
+		(Nano-Coating Treatment) Our specialised lacquer returns a stunning, natural finish that is stain and water resistant, whilst providing industry-leading protection.
+	</p>
+
+	<br>
+
+	<h2>Contemporary Style</h2>
+	<p>
+		Sleek, smooth with hard, straight lines, a contemporary kitchen is defined by the lack of clutter. Open plan with minimalist styled appliances, the whole kitchen is focused on the cooks needs.
+	</p>
+
+	<br>
+
+	<h2>Traditional Style</h2>
+	<p>
+		Warm, earthy tones that encourage people to use the kitchen as the heart of the home, a traditional style has a rustic feel due to wooden worktops, Belfast sinks, and formal fabrics.
+	</p>
+
+	<br>
+
+	<h2>Carcass</h2>
+	<p>
+		The outer part or main body of the cabinet. We use to 18.7mm Birch plywood to create a cabinet carcass as retain their shape over time, not bending nor sagging even when put under extreme weight.
+	</p>
+
+	<br>
+
+	<h2>Two-Part Paint System</h2>
+	<p>
+		Also called  "2K paints", they are two-component paints in which a chemical reaction results in the paint forming into an extremely smooth and durable layer, resistant to damage, water and staining. 
+	</p>
+
+	<br>
+
+	<h2>De-nib</h2>
+	<p>
+		A process of removing nibs which become trapped in the layers of paint. We de-nib between every coat to ensure a smooth, spotless finish.
+	</p>
+
+	<br>
+
+	<h2>Void</h2>
+	<p>
+		A space behind the cabinets to conceal pipes and any wiring that needs to be hidden. Our bespoke service offers custom void cut-outs in any dimension, resulting in better utilised space as you do not need to pull the cabinets forward.
+	</p>
+
+	<br>
+
+	<h2>Filler pieces</h2>
+	<p>
+		Used to plug holes between standard size cabinets and an appliance or wall resulting in wasted space. Our cabinets do not use filler pieces as they are bespoke to your kitchen.
+	</p>
+</div>
+	<!--footer-->
+	</div>      <!--body inner-->
+</div>      <!--main body-->
+
+<div id="footer">
+    <div class="footerColumnClass">
+        <div id="footerLinkBarId">
+            <div class="footerTitleClass">Information</div>
+            <a href="/">Home</a>
+            <a href="/faq">FAQ</a>
+            <a href="/press">Press</a>
+            <a href="/careers">Careers</a>
+            <a href="/glossary-of-terms">Glossary of Terms</a>
+            <a href="/terms-and-conditions">Terms & Conditions</a>
+        </div>
+        <br>
+        <div id="footerSocialContainer">
+            <div class="footerTitleClass">Social Media</div>
+            <a href="https://www.facebook.com/NAKEDKitchens" class="facebook"></a>
+            <a href="https://www.instagram.com/nakedkitchens/" class="instagram"></a>
+            <a href="https://twitter.com/nakedkitchens/" class="twitter"></a>
+            <!--<a href="https://plus.google.com/+Nakedkitchens" class="google"></a>-->
+            <a href="https://uk.pinterest.com/nakedkitchens/" class="pinterest"></a>
+            <a href="http://www.houzz.co.uk/pro/nakedkitchens/" class="houzz"></a>
+        </div>
+	</div>
+    <div class="footerColumnClass">
+        <div id="footerContactContainerId">
+            <div class="footerTitleClass">Contact</div>
+            <p>
+                <a class="number" itemprop="telephone" href="tel:01328-838-854">01328 838 854</a>
+                <br>
+                <a itemprop="email" href="mailto:info@nakedkitchens.com">info@nakedkitchens.com</a>
+            </p>
+            <p>
+                Hangar 4
+                <br>
+                West Raynham Business Park
+                <br>
+                Fakenham
+                <br>
+                Norfolk
+                <br>
+                NR21 7JS
+            </p>
+        </div>
+    </div>
+    <div class="footerColumnClass">
+        <div id="footerReviewContainerId">
+            <img src="images/parliamentry-review.png" style="width:320px;margin-top:40px;" alt="Parliamentry Review">
+        </div>
+    </div>
+	<div id="footerCopyrightId">All Prices Include VAT. Copyright &copy; 2018 Naked Kitchens. All rights Reserved.</div>
+</div>
+
+<div id="modalContactCoverId" onclick="contactCoverClick()"></div>
+<div id="modalContactBoxId">
+    <div id="modalContactBoxCloseId" onclick="contactCoverClick()"></div>
+    <div class="inlineContactClass">
+    <div class="contactFormClass">
+        <div class="textBoxClass">
+            <h2>Contact</h2>
+            <h3>Please get in touch to start planning your dream kitchen.</h3>
+        </div>
+        <div class="contactIputContainerClass">
+            <input placeholder="name *" name="name" type="text" class="required contactNameInputClass">
+            <input placeholder="email *" name="email" type="text" class="required contactEmailInputClass">
+            <input placeholder="phone" type="text" class="contactPhoneInputClass">
+            <textarea placeholder="message *" name="message" class="required contactMessageInputClass"></textarea>
+            <div class="contactSubmitButtonClass">Send Message</div>
+            <div class="contactStatusMessageClass"></div>
+        </div>
+        <div id="brochureDownloadButtonContainerId">
+            <a href="downloads/naked-kitchens-brochure.pdf" class="legacy">Download Our Brochure ></a>
+        </div>
+    </div>
+</div>
+</div>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhza4tmL4FDP8zwN-Xe3McLWJNLdGHFsk&callback=initMap" async defer></script>
+<script src="js/output.min.js" async defer></script>
+
+<link type="text/css" rel="stylesheet" href="css/compress.css">
+
+</body>
+
+</html>	</body>
+</html>

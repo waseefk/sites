@@ -1,0 +1,297 @@
+<!--dynamic page--><base href='https://www.nakedkitchens.com/content/themes/naked-kitchens/'>
+<!doctype html>
+<html>
+	<head>
+		<!--detect IE script-->
+<script type="text/javascript">var ie=function(){for(var a,b=3,c=document.createElement("div"),d=c.getElementsByTagName("i");c.innerHTML="<!--[if gt IE "+ ++b+"]><i></i><![endif]-->",d[0];);return b>4?b:a}();</script>
+
+<title>Careers and jobs | Naked Kitchens</title>
+
+<meta name="description" http-equiv="description" id="meta-desc" content="We are always looking out for talented fresh-thinkers to join our friendly team. Please send your CV & covering letter in.">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="google-site-verification" content="QjWCBDSmtkY5BoYGJTouEyzPPZ3f5f181EMZjnugj_0" />
+<meta name="viewport" content="width=device-width, height=device-height initial-scale=1 maximum-scale=1  minimum-scale=1 user-scalable=no">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="theme-color" content="#000000" id="themeColor">
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Naked Kitchens" />
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="white">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="format-detection" content="telephone=yes">
+
+
+<meta property="og:url" content="https://www.nakedkitchens.com/careers" />
+<meta property="og:title" content="Careers and jobs | Naked Kitchens" />
+<meta property="og:description" content="We are always looking out for talented fresh-thinkers to join our friendly team. Please send your CV & covering letter in." />
+
+<link rel="shortcut icon" type="image/png" href="images/icon.png">
+<link rel="apple-touch-icon-precomposed" href="images/icon.png">
+    
+<!-- twitter card info -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@NAKEDKitchens" />
+<meta name="twitter:creator" content="@NAKEDKitchens" />	</head>
+	<body>
+	<!--header-->
+
+	<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '668973203278851', {
+em: 'insert_email_variable,'
+});
+fbq('track', 'PageView');
+
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=668973203278851&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KX4SCD');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KX4SCD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="loadingScreenId" style="display:none;"></div>
+    
+<script type="text/javascript">
+
+document.getElementById('loadingScreenId').style.display = 'block';
+
+</script>
+    
+<link type="text/css" rel="stylesheet" href="css/header.css">
+
+<link rel="icon" type="image/png" href="images/icon.png">
+<link rel="apple-touch-icon" href="images/icon.png">
+<link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
+    
+<div id="bodyInnerId" style="visibility: hidden;">
+    
+<div id="headerBackgroundId"></div>
+    
+<div id="headerId">
+    <div id="headerInnerBackgroundId"></div>
+    
+    <a href="/">
+        <div id="logoId"></div>
+    </a>
+    
+    <div id="headContactContainerId">
+        <a id="phoneNumberId" class="number" itemprop="telephone" href="tel:01328-838-854">01328 838 854</a>    
+        <div id="emailId" itemprop="email" onclick="emailLinkClick();">info@nakedkitchens.com</div>
+        <a id="mobileEmailId" itemprop="email" href="mailto:info@nakedkitchens.com?subject=Naked Kitchen Enquiry">info@nakedkitchens.com</a>
+    </div>
+    
+    
+    <div id="menuButtonId">
+        <div type="button" role="button" aria-label="Toggle Navigation" class="lines-button x">
+            <span class="lines"></span>
+        </div>
+    </div>
+
+    <script src="js/header.js"></script>
+
+    <div id="menuContainerId">
+        <nav id="pageLinkContainerId">
+            <ul>
+                <li>
+                    <a class="dropDownLinkClass" href="/kitchens">Kitchens</a>
+                    <div class="dropDownClass">
+                        <a href="/kitchens/contemporary">Contemporary</a>
+                        <a href="/kitchens/shaker">Shaker</a>
+                        <a href="/kitchens/classic">Classic</a>
+                        <a href="/kitchens/larders">Larders</a>
+                        <a href="/miele">Miele</a>
+                        <a href="/pricing">Pricing</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="dropDownLinkClass" href="/interiors">Interiors</a>
+                    <div class="dropDownClass">
+                        <a href="/kitchens/naked-in-frame/boot-room">Boot Room</a>
+                        <a href="/interiors/dressing-room">Dressing Room</a>
+                        <a href="/kitchens/accessories">Accessories</a>
+                        <a href="/kitchens/furniture">Furniture</a>
+                        <a href="/kitchens/hardwood-flooring">Flooring</a>
+                        <a href="/kitchens/worktops">Worktops</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="dropDownLinkClass" href="/our-approach">Our Approach</a>
+                    <div class="dropDownClass">
+                        <a href="/kitchens/cabinet-construction">Construction</a>
+                        <a href="/kitchens/cabinet-styling">Styling</a>
+                        <a href="/kitchens/door-frame-styling">Doors & Frames</a>
+                        <a href="/assembly-options">Assembly Options</a>
+                    </div>
+                </li>
+                <li id="showroomLinkId">
+                    <a href="/showroom">Showroom</a>
+                </li>
+                <li>
+                    <a href="/blog">Blog</a>
+                </li>
+                <li>
+                    <a class="dropDownLinkClass" href="/contact-us">Contact</a>
+                    <div class="dropDownClass">
+                        <!--<a class="legacy" href="downloads/naked-kitchens-brochure.pdf">Brochure</a>-->
+                        <a class="legacy" href="/brochure">Brochure</a>
+                        <a class="legacy" href="/kitchens/cabinet-samples">Samples</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+
+<div id="mainBodyContainerId">
+	<!--body content-->
+	<div class="textBoxClass">
+	<h1>Careers at Naked Kitchens</h1>
+	<p>Naked Kitchens is a rapidly growing company that is always looking out for talented fresh-thinkers to join our friendly team. If you would like to apply for a job, please send your CV & covering letter to <a href="mailto:careers@nakedkitchens.com">careers@nakedkitchens.com</a></p>
+    <p>Please ensure that you have read the job description below, and meet the criteria we require before applying.</p>
+</div>
+
+
+<div class="textBoxLeftClass">
+    <h2>TRAINEE KITCHEN DESIGNER </h2>
+    <div style="text-align:justify; padding:12px; margin-top:8px; margin-bottom:40px; border-top:6px solid #D3D3D3; border-left:1px solid #D3D3D3; border-right:1px solid #D3D3D3; border-bottom:1px solid #D3D3D3;">
+        <p><p>NAKED Kitchens is a rapidly growing company that is always looking out for talented fresh thinkers to join our friendly team. <br />Please ensure that you have read the job description below, and meet the criteria we require before applying.</p>
+<p><strong>You need to:</strong></p>
+<p>- Be dynamic, eager to learn and work as part of an energetic and outgoing team<br />- Have excellent numerical and writing skills, and be able to advise customers in a professional yet friendly manner<br />- Have an eye for detail, a taste for interior design and a desire to create kitchens and furniture to the finest level<br />- Have a willingness to learn, and a flair for problem solving and precision and an ability to understand construction methods and the mathematical processes involved in kitchen design<br />- Have previous experience using CAD software or similar programmes<br /><br /></p>
+<p><strong>Your role at NAKED Kitchens will involve:</strong><br />- Guiding each customer through their kitchen project via telephone, email and in person<br />- Create customer's kitchen plans using our CAD software (Training will be provided)<br />- Working alongside our designers to ensure a high quality service and a flawless kitchen design for every customer<br />- Liaising with our workshop team to bring kitchens into production and monitor to completion</p>
+<p><strong>The position is full time, and working hours are Monday to Friday 9am until 5.30pm. Due to our location in rural North Norfolk a full driving licence is essential.</strong></p></p>
+    </div>
+</div>
+
+
+<div class="textBoxLeftClass">
+    <h2>EXPERIENCED KITCHEN DESIGNER</h2>
+    <div style="text-align:justify; padding:12px; margin-top:8px; margin-bottom:40px; border-top:6px solid #D3D3D3; border-left:1px solid #D3D3D3; border-right:1px solid #D3D3D3; border-bottom:1px solid #D3D3D3;">
+        <p><p>NAKED Kitchens is a rapidly growing company that is always looking out for talented fresh thinkers to join our friendly team. <br /><br /></p>
+<p><strong>You need to:</strong></p>
+<p>- Be dynamic, eager to learn and work as part of an energetic and outgoing team<br />- Have excellent numerical and writing skills, and be able to advise customers in a professional yet friendly manner<br />- Have an eye for detail, a taste for interior design and a desire to create kitchens and furniture to the finest level<br />- Have a willingness to learn, and a flair for problem solving and precision and the ability to understand construction methods and the mathematical processes involved in design <br />- Have experience using CAD software or similar programmes<br />- Have a focus on creative application</p>
+<p><strong>Your role at NAKED Kitchens will involve:</strong><br />- Guiding each customer through their kitchen project via telephone, email and in person<br />- Create customer's kitchen plans using our CAD software <br />- Working alongside our designers to ensure a high quality service and a flawless kitchen design for every customer<br />- Liaising with our workshop team to bring kitchens into production and monitor to completion</p>
+<p><strong>The position is full time, and working hours are Monday to Friday 9am until 5.30pm. Due to our location in rural North Norfolk a full driving licence is essential.</strong></p></p>
+    </div>
+</div>
+
+
+<div class="textBoxLeftClass">
+    <h2>GRADUATE TRAINEE PRODUCT MANAGER </h2>
+    <div style="text-align:justify; padding:12px; margin-top:8px; margin-bottom:40px; border-top:6px solid #D3D3D3; border-left:1px solid #D3D3D3; border-right:1px solid #D3D3D3; border-bottom:1px solid #D3D3D3;">
+        <p><p>Manufacturer of high quality, beautiful bespoke kitchens; Naked Kitchens is looking for a talented fresh thinker to join our fast-growing, friendly team. </p>
+<p><strong>The Position:</strong><br />We are looking for a Graduate Trainee Product Manager to work in our friendly office team.</p>
+<p><strong>Key Responsibilities:</strong><br />Your role at Naked Kitchens will involve:</p>
+<p>- Developing a new product and brand under the Naked Kitchens umbrella.<br />- Marketing and Business Development.<br />- Preparing working documentation to aid manufacture within our workshop.<br />- Liasing with our workshop team to bring orders into production and monitor completion.<br />- Strategic thinking and decision making. </p>
+<p><strong>The Person:</strong><br />You will:</p>
+<p>- Have excellent communication skills; both written and spoken.<br />- Possess good analytical and mathematical skills and be a clear thinker.<br />- Have strong strategic thinking and be able to work on your own initiative.<br />- Have high levels of organisation, creativity and flair.<br />- Have the ability to prioritize your workload to meet deadlines. <br />- Work well under pressure and in a fast paced environment.<br />- Be educated to degree level.</p>
+<p>The position is full time, and working hours are Monday to Friday 9am until 5.30pm. Due to our location in rural North Norfolk a full driving licence is essential.</p></p>
+    </div>
+</div>
+
+
+	<!--footer-->
+	</div>      <!--body inner-->
+</div>      <!--main body-->
+
+<div id="footer">
+    <div class="footerColumnClass">
+        <div id="footerLinkBarId">
+            <div class="footerTitleClass">Information</div>
+            <a href="/">Home</a>
+            <a href="/faq">FAQ</a>
+            <a href="/press">Press</a>
+            <a href="/careers">Careers</a>
+            <a href="/glossary-of-terms">Glossary of Terms</a>
+            <a href="/terms-and-conditions">Terms & Conditions</a>
+        </div>
+        <br>
+        <div id="footerSocialContainer">
+            <div class="footerTitleClass">Social Media</div>
+            <a href="https://www.facebook.com/NAKEDKitchens" class="facebook"></a>
+            <a href="https://www.instagram.com/nakedkitchens/" class="instagram"></a>
+            <a href="https://twitter.com/nakedkitchens/" class="twitter"></a>
+            <!--<a href="https://plus.google.com/+Nakedkitchens" class="google"></a>-->
+            <a href="https://uk.pinterest.com/nakedkitchens/" class="pinterest"></a>
+            <a href="http://www.houzz.co.uk/pro/nakedkitchens/" class="houzz"></a>
+        </div>
+	</div>
+    <div class="footerColumnClass">
+        <div id="footerContactContainerId">
+            <div class="footerTitleClass">Contact</div>
+            <p>
+                <a class="number" itemprop="telephone" href="tel:01328-838-854">01328 838 854</a>
+                <br>
+                <a itemprop="email" href="mailto:info@nakedkitchens.com">info@nakedkitchens.com</a>
+            </p>
+            <p>
+                Hangar 4
+                <br>
+                West Raynham Business Park
+                <br>
+                Fakenham
+                <br>
+                Norfolk
+                <br>
+                NR21 7JS
+            </p>
+        </div>
+    </div>
+    <div class="footerColumnClass">
+        <div id="footerReviewContainerId">
+            <img src="images/parliamentry-review.png" style="width:320px;margin-top:40px;" alt="Parliamentry Review">
+        </div>
+    </div>
+	<div id="footerCopyrightId">All Prices Include VAT. Copyright &copy; 2018 Naked Kitchens. All rights Reserved.</div>
+</div>
+
+<div id="modalContactCoverId" onclick="contactCoverClick()"></div>
+<div id="modalContactBoxId">
+    <div id="modalContactBoxCloseId" onclick="contactCoverClick()"></div>
+    <div class="inlineContactClass">
+    <div class="contactFormClass">
+        <div class="textBoxClass">
+            <h2>Contact</h2>
+            <h3>Please get in touch to start planning your dream kitchen.</h3>
+        </div>
+        <div class="contactIputContainerClass">
+            <input placeholder="name *" name="name" type="text" class="required contactNameInputClass">
+            <input placeholder="email *" name="email" type="text" class="required contactEmailInputClass">
+            <input placeholder="phone" type="text" class="contactPhoneInputClass">
+            <textarea placeholder="message *" name="message" class="required contactMessageInputClass"></textarea>
+            <div class="contactSubmitButtonClass">Send Message</div>
+            <div class="contactStatusMessageClass"></div>
+        </div>
+        <div id="brochureDownloadButtonContainerId">
+            <a href="downloads/naked-kitchens-brochure.pdf" class="legacy">Download Our Brochure ></a>
+        </div>
+    </div>
+</div>
+</div>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhza4tmL4FDP8zwN-Xe3McLWJNLdGHFsk&callback=initMap" async defer></script>
+<script src="js/output.min.js" async defer></script>
+
+<link type="text/css" rel="stylesheet" href="css/compress.css">
+
+</body>
+
+</html>	</body>
+</html>
